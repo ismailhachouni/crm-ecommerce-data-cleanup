@@ -1,0 +1,12 @@
+customer_id,full_name,email_validation_status, cleaned_email,standardized_phone,country_market,phone_validation_status,parsed_order_date,standardized_region,revenue_amount_usd,transaction_status,market_region_cross_check
+CUST-001,John Doe,Valid Email,john.doe@gmail.com,+212 612345678,Morocco,VALID,2026-10-01,California,$150.00,Standard Sale,Warning: Moroccan Market with Non-Local Region
+CUST-002,Jane Smith,Valid Email,jane.smith@yahoo.com,+212612987654,Morocco,VALID,2026-02-10,Marrakesh-Safi,$200.50,Standard Sale,Aligned
+CUST-003,Bob Smith,Valid Email,bob.smith@outlook.com,+5553219876,Other / International,Invalid_Prefix_Or_Format,2026-10-03,California,$75.25,Standard Sale,Aligned
+CUST-005,Chris Lee,Valid Email,chris_lee@gmail.com,+15554567890,North America,Test_Or_Dummy_Number,2026-10-05,California,$310.00,Standard Sale,Aligned
+CUST-008,Youssef Alami,Valid Email,youssef@alami.ma,+212661122338,Morocco,VALID,2026-10-08,Rabat-Salé-Kénitra,$147.66,Standard Sale,Aligned
+CUST-009,Sarah Connor,Valid Email,sarah@resistance.org,+15559876543,North America,Test_Or_Dummy_Number,2026-10-09,California,$450.00,Standard Sale,Aligned
+CUST-010,Mohamed Benali,Valid Email,m.benali@gmail.com,+212 760112233,Morocco,VALID,2026-10-10,Marrakesh-Safi,$86.56,Standard Sale,Aligned
+CUST-012,Emily Blunt,Valid Email,emily@hollywood.com,+15550198234,North America,Test_Or_Dummy_Number,2026-10-12,California,-$50.00,Refund / Negative,Aligned
+CUST-013,Ahmed Tazi,Valid Email,ahmed.tazi@startup.ma,+212 655443322,Morocco,VALID,2026-10-13,Casablanca-Settat,$325.87,Standard Sale,Aligned
+CUST-014,David Miller,Valid Email,david.m@tech.io,+442079460912,United Kingdom,VALID,2026-10-14,Greater London,$268.80,Standard Sale,Aligned
+CUST-015,Fatima Zahra,Valid Email,fatima.z@gmail.com,+212677889900,Morocco,VALID,2026-10-14,Tanger-Tetouan-Al Hoceima,$96.74,Standard Sale,Aligned

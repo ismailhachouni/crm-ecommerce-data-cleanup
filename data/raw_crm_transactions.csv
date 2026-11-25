@@ -1,0 +1,21 @@
+customer_id,full_name,email,phone_number,order_date,region_state,revenue_amount
+CUST-001,john doe ,john.doe@gmail.com,06-12345678,2026-10-01,california,$150.00
+CUST-002,JANE SMITH,jane.smith@yahoo.com,+212 612-987654,10/02/2026,Marrakech-Safi,200.50 USD
+CUST-003,bob smith,bob.smith@outlook.com,(555) 321-9876,2026-10-03,calfornia,$75.25
+CUST-001,john doe ,john.doe@gmail.com,06-12345678,2026-10-01,california,$150.00
+CUST-004,alice jones,alice.j@corp.net,0612345678,Invalid_Date,New York,
+CUST-005,CHRIS LEE,chris_lee@gmail.com,+1-555-456-7890,2026-10-05,ca,$310.00
+CUST-006,mary brown,mary.b@domain.com,06.12.34.56.78,10/06/2026,ny,120.00 USD
+CUST-007,,unknown@test.com,5557891234,2026-10-07,Casablanca-Settat,N/A
+CUST-008,Youssef Alami,youssef@alami.ma,+212661122338,2026/10/08,Rabat-Sale-Kenitra,1450.00 MAD
+CUST-002,jane smith,jane.smith@yahoo.com,+212612987654,10/02/2026,Marrakech,200.50
+CUST-009,sarah connor,sarah@resistance.org,+1 (555) 987-6543,10-09-2026,California,450.00$
+CUST-010,mohamed benali,m.benali@gmail.com,0760112233,2026-10-10,marrakesh,850 MAD
+CUST-011,N/A,invalid_email@,06 12 34 56 78,Invalid_Date,Paris,€125.50
+CUST-012,emily blunt,emily@hollywood.com,+15550198234,2026-10-12,California,$-50.00
+CUST-013,ahmed tazi,ahmed.tazi@startup.ma,06-55-44-33-22,2026-10-13,Casablanca,3200 MAD
+CUST-001,JOHN DOE,john.doe@gmail.com,06-12345678,2026-10-01,California,150.00 USD
+CUST-014,david miller,david.m@tech.io,+44 20 7946 0912,2026-10-14,London,£210.00
+CUST-015,fatima zahra,fatima.z@gmail.com,+212677889900,14/10/2026,Tangier-Tetouan,950.00 MAD
+CUST-010,Mohamed Benali,m.benali@gmail.com,06760112233,2026-10-10,Marrakech-Safi,850.00
+CUST-016,  spacey mcbias  ,spacey@test.com,555-000-1111,2026-10-16,Texas,NULL
